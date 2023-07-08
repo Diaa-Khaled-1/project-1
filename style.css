@@ -37,6 +37,7 @@ body {
 /* -------------------------------------------------------------- */
 .section-1{
   background: url(a.jpg) no-repeat;
+  background-position: center;
   height: 100vh;
   padding: 200px 200px;
   
